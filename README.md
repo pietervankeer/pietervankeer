@@ -31,8 +31,6 @@
 
 <img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://pietervankeer.be
+[twitter]: https://twitter.com/MagicTurtle2
 [linkedin]: https://www.linkedin.com/in/pieter-van-keer-561456180/
