@@ -1,4 +1,4 @@
-### Hi there, I'm Pieter 👋
+### Hi there, I'm Pieter AKA MagicTurtle 👋
 
 ## I'm a Boyfriend, Developer and Student!
 
