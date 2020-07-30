@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
