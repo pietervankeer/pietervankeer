@@ -30,6 +30,6 @@
 
 <img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
 
-[website]: https://pietervankeer.be{:target="\_blank"}
+[website]: https://pietervankeer.be
 [twitter]: https://twitter.com/MagicTurtle2
 [linkedin]: https://www.linkedin.com/in/pieter-van-keer-561456180/
