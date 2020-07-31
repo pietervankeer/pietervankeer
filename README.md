@@ -10,10 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="\_blank"}
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]{:target="\_blank"}
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]{:target="\_blank"}
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -31,6 +30,6 @@
 
 <img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
 
-[website]: https://pietervankeer.be
+[website]: https://pietervankeer.be{:target="\_blank"}
 [twitter]: https://twitter.com/MagicTurtle2
 [linkedin]: https://www.linkedin.com/in/pieter-van-keer-561456180/
