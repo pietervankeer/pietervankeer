@@ -1,8 +1,7 @@
-### Hi there, I'm Pieter 👋
+### Hi there, I'm Pieter AKA MagicTurtle 👋
 
 ## I'm a Boyfriend, Developer and Student!
 
-- 🔭 I’m currently working on a website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other content creators
 - 🥅 2020 Goals: To be more productive on Github.
@@ -10,10 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Pieter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Pieter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -31,8 +29,6 @@
 
 <img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://pietervankeer.be
+[twitter]: https://twitter.com/MagicTurtle2
 [linkedin]: https://www.linkedin.com/in/pieter-van-keer-561456180/
