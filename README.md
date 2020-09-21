@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a website!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to mountainbike and create websites
+- 🥅 2020 Goals: To be more productive on Github.
+- ⚡ Fun fact: I love to mountainbike and creating websites
 
 ### Connect with me:
 
