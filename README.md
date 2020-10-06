@@ -1,6 +1,6 @@
 ### Hi there, I'm Pieter AKA MagicTurtle 👋
 
-## I'm a Boyfriend, Developer and Student!
+## I'm a Developer and Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other content creators
