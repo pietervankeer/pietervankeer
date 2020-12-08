@@ -2,10 +2,10 @@
 
 ## I'm a Developer and Student!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learn from other content creators
+- 🌱 I’m a student at [HoGent][https://www.hogent.be/]
+- 👯 I’m looking to learn more about webdevelopment
 - 🥅 2020 Goals: To be more productive on Github.
-- ⚡ Fun fact: I love to mountainbike and creating websites
+- ⚡ Fun fact: I love to mountainbike and I have a tractor
 
 ### Connect with me:
 
@@ -28,6 +28,7 @@
 ---
 
 <img align="left" alt="Pieter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietervankeer&show_icons=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietervankeer&theme=buefy&layout=compact" />
 
 [website]: https://pietervankeer.be
 [twitter]: https://twitter.com/MagicTurtle2
