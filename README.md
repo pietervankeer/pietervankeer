@@ -4,7 +4,7 @@
 
 - 🌱 I’m a student at [HoGent](https://www.hogent.be/)
 - 👯 I’m looking to learn more about webdevelopment
-- 🥅 2020 Goals: To be more productive on Github.
+- 🥅 2021 Goals: To be more productive on Github.
 - ⚡ Fun fact: I love to mountainbike and I have a tractor
 
 ### Connect with me:
