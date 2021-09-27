@@ -3,7 +3,7 @@
 ## I'm a Developer and Student!
 
 - 🌱 I’m a student at [HoGent](https://www.hogent.be/)
-- 👯 I’m looking to learn more about webdevelopment
+- 👯 I’m looking to learn more about automation
 - 🥅 2021 Goals: To be more productive on Github.
 - ⚡ Fun fact: I love to mountainbike and I have a tractor
 
