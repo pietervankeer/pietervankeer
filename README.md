@@ -1,6 +1,6 @@
 ### Hi there, I'm Pieter AKA MagicTurtle 👋
 
-## I'm a Developer and Student!
+## I'm a Student!
 
 - 🌱 I’m a student at [HoGent](https://www.hogent.be/)
 - 👯 I’m looking to learn more about automation
