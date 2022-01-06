@@ -4,7 +4,7 @@
 
 - 🌱 I’m a student at [HoGent](https://www.hogent.be/)
 - 👯 I’m looking to learn more about automation
-- 🥅 2021 Goals: To be more productive on Github.
+- 🥅 2022 Goals: To be more productive on Github and to learn more about automation
 - ⚡ Fun fact: I love to mountainbike and I have a tractor
 
 ### Connect with me:
@@ -34,4 +34,4 @@
 
 [website]: https://pietervankeer.be
 [twitter]: https://twitter.com/MagicTurtle2
-[linkedin]: https://www.linkedin.com/in/pieter-van-keer-561456180/
+[linkedin]: https://www.linkedin.com/in/pietervankeer/
